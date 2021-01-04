@@ -1,0 +1,155 @@
+2020-11-14 17:59:56, INFO, HHH000412: Hibernate ORM core version 5.4.20.Final
+2020-11-14 17:59:58, INFO, HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2020-11-14 17:59:59, WARN, HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2020-11-14 17:59:59, INFO, HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost/keretrendszer?serverTimezone=UTC]
+2020-11-14 17:59:59, INFO, HHH10001001: Connection properties: {user=root, password=****}
+2020-11-14 17:59:59, INFO, HHH10001003: Autocommit mode: false
+2020-11-14 17:59:59, INFO, HHH000115: Hibernate connection pool size: 20 (min=1)
+2020-11-14 18:00:00, INFO, HHH000400: Using dialect: org.hibernate.dialect.MySQLInnoDBDialect
+2020-11-14 18:00:01, INFO, HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@7c853486] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2020-11-14 18:00:01, INFO, HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2020-11-14 18:00:01, INFO, Uj kutya lett hozzáadva a 104b9fa4-0d57-47f2-adca-2a8bd44491a0azonositoval
+2020-11-14 18:00:02, INFO, Uj kutya lett hozzáadva a 7e6f73a2-ceb9-4e97-871f-1727abc39d53azonositoval
+2020-11-14 18:00:02, INFO, Uj kutya lett hozzáadva a 135896c5-ce81-45fb-a680-97fbfa1076c2azonositoval
+2020-11-14 18:00:02, INFO, Uj kutya lett hozzáadva a 83d1c1b3-4226-438f-9764-e744c92d565fazonositoval
+2020-11-14 18:00:02, INFO, Uj kutya lett hozzáadva a 565bdf16-7e28-408d-bce0-fee6a971a62fazonositoval
+2020-11-14 18:00:02, INFO, Uj kutya lett hozzáadva a 937299ad-92f2-4d7b-818a-b51972d07d6dazonositoval
+2020-11-14 18:00:02, INFO, Uj kutya lett hozzáadva a 9f6a8ee3-116c-426a-8166-bd32d230bfadazonositoval
+2020-11-14 18:00:02, INFO, Uj kutya lett hozzáadva a f3a3b790-9306-4376-a0b8-059bc1ac0d4eazonositoval
+2020-11-14 18:00:02, INFO, Uj kutya lett hozzáadva a 4392b22d-49ae-43cf-a578-2453fc363097azonositoval
+2020-11-14 18:00:02, INFO, Uj kutya lett hozzáadva a fceaed0f-7889-4449-8bee-470e5470e087azonositoval
+2020-11-14 18:08:41, INFO, HHH000412: Hibernate ORM core version 5.4.20.Final
+2020-11-14 18:08:42, INFO, HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2020-11-14 18:08:44, WARN, HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2020-11-14 18:08:44, INFO, HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost/keretrendszer?serverTimezone=UTC]
+2020-11-14 18:08:44, INFO, HHH10001001: Connection properties: {user=root, password=****}
+2020-11-14 18:08:44, INFO, HHH10001003: Autocommit mode: false
+2020-11-14 18:08:44, INFO, HHH000115: Hibernate connection pool size: 20 (min=1)
+2020-11-14 18:08:45, INFO, HHH000400: Using dialect: org.hibernate.dialect.MySQLInnoDBDialect
+2020-11-14 18:08:46, INFO, HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@7c853486] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2020-11-14 18:08:46, INFO, HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2020-11-14 18:08:46, INFO, Uj kutya lett hozzáadva a 66f5fcbe-8d64-4b11-a9ef-49fb07573990azonositoval
+2020-11-14 18:08:47, INFO, Uj kutya lett hozzáadva a 1dd94eb1-068a-4d04-9629-9a5e993f2b9fazonositoval
+2020-11-14 18:08:47, INFO, Uj kutya lett hozzáadva a 3882d505-fa53-45b5-9637-db786bb17ff2azonositoval
+2020-11-14 18:08:47, INFO, Uj kutya lett hozzáadva a c92ead2d-27cc-415b-a7c8-644a62ca89c8azonositoval
+2020-11-14 18:08:47, INFO, Uj kutya lett hozzáadva a 69e44429-6d10-459b-8222-ac78f9f97c5dazonositoval
+2020-11-14 18:08:47, INFO, Uj kutya lett hozzáadva a befea153-dffd-4fb3-ac22-bcc3f647ebf6azonositoval
+2020-11-14 18:08:47, INFO, Uj kutya lett hozzáadva a 393de6ce-a83c-4ea6-a655-0cb707bc8a8bazonositoval
+2020-11-14 18:08:47, INFO, Uj kutya lett hozzáadva a bf5cfa1d-2b7e-4b71-9138-ed07a3f4a0c7azonositoval
+2020-11-14 18:08:47, INFO, Uj kutya lett hozzáadva a 7362a6ff-ec97-4673-97e3-b4f7eee1fb8eazonositoval
+2020-11-14 18:08:47, INFO, Uj kutya lett hozzáadva a 211c0040-ce50-485e-9219-b556ebcc8e03azonositoval
+2020-11-14 18:15:12, INFO, HHH000412: Hibernate ORM core version 5.4.20.Final
+2020-11-14 18:15:13, INFO, HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2020-11-14 18:15:15, WARN, HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2020-11-14 18:15:15, INFO, HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost/keretrendszer?serverTimezone=UTC]
+2020-11-14 18:15:15, INFO, HHH10001001: Connection properties: {user=root, password=****}
+2020-11-14 18:15:15, INFO, HHH10001003: Autocommit mode: false
+2020-11-14 18:15:15, INFO, HHH000115: Hibernate connection pool size: 20 (min=1)
+2020-11-14 18:15:16, INFO, HHH000400: Using dialect: org.hibernate.dialect.MySQLInnoDBDialect
+2020-11-14 18:15:17, INFO, HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@7c853486] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2020-11-14 18:15:17, INFO, HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2020-11-14 18:15:17, INFO, Uj kutya lett hozzáadva a 93a225ed-0d7d-40a4-975e-72d3cd646966azonositoval
+2020-11-14 18:15:18, INFO, Uj kutya lett hozzáadva a a92f282f-d63a-4c98-8ddd-e451ca79b827azonositoval
+2020-11-14 18:15:18, INFO, Uj kutya lett hozzáadva a 88e240c7-5334-4c04-ad0d-abc2238f1ef5azonositoval
+2020-11-14 18:15:18, INFO, Uj kutya lett hozzáadva a 34dfbff0-4dc4-40cd-bbfa-41a4342bac9eazonositoval
+2020-11-14 18:15:18, INFO, Uj kutya lett hozzáadva a d9f78a7b-a729-4834-9b3a-bc541bc41b04azonositoval
+2020-11-14 18:15:18, INFO, Uj kutya lett hozzáadva a 0e0d5c5d-64d3-4a55-97d1-68fe6f9cfef7azonositoval
+2020-11-14 18:15:18, INFO, Uj kutya lett hozzáadva a 889cc4b4-a203-4fec-9fe6-b008f71127f9azonositoval
+2020-11-14 18:15:18, INFO, Uj kutya lett hozzáadva a f5e8a803-3dec-4e5e-8105-67eba07d38d4azonositoval
+2020-11-14 18:15:18, INFO, Uj kutya lett hozzáadva a ebd4c2c0-c211-45d2-90bc-1089ba1dec41azonositoval
+2020-11-14 18:15:18, INFO, Uj kutya lett hozzáadva a 8f3c34b9-1e32-4724-9fff-ef8128ae1412azonositoval
+2020-11-14 18:15:18, INFO, Uj kutya lett hozzáadva a eef8e9c7-295b-40db-a805-7ba90e04cbaaazonositoval
+2020-11-14 18:15:18, INFO, Az adatbázisban java.util.stream.ReferencePipeline$Head@5d425813 kutya van felvéve.
+2020-11-14 18:15:18, INFO, Uj kutya lett hozzáadva a 3b7a24d5-0312-4c97-aa00-2503d368a96fazonositoval
+2020-11-14 18:15:18, INFO, Uj kutya lett hozzáadva a 99c71111-5753-4fdf-9fe5-3bedbff87efaazonositoval
+2020-11-14 18:15:18, INFO, Uj kutya lett hozzáadva a 095df162-cbe0-423e-a97c-c229b9c01bc7azonositoval
+2020-11-14 18:15:18, INFO, Uj kutya lett hozzáadva a 06819e4e-8723-4865-b3ec-594fb649234aazonositoval
+2020-11-14 18:15:18, INFO, Uj kutya lett hozzáadva a 52bb47f1-6b47-4a7d-83bb-231b6bc3512eazonositoval
+2020-11-14 18:15:18, INFO, Uj kutya lett hozzáadva a f2b57b93-ce18-41d4-a6d2-14737b585483azonositoval
+2020-11-14 18:15:18, INFO, Uj kutya lett hozzáadva a ab691250-5041-491f-81d2-a78802349bbeazonositoval
+2020-11-14 18:15:18, INFO, Uj kutya lett hozzáadva a 20817453-09e9-4045-a68e-13440bbc7143azonositoval
+2020-11-14 18:15:18, INFO, Uj kutya lett hozzáadva a f1bf11dc-1a34-45c9-8c88-66ff8f8d7ef9azonositoval
+2020-11-14 18:15:18, INFO, Uj kutya lett hozzáadva a e410d71c-957c-42cd-aaf7-56e13cca20d0azonositoval
+2020-11-14 18:15:18, INFO, Az adatbázisban java.util.stream.ReferencePipeline$Head@17d32e9b kutya van felvéve.
+2020-11-14 18:18:05, INFO, HHH000412: Hibernate ORM core version 5.4.20.Final
+2020-11-14 18:18:06, INFO, HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2020-11-14 18:18:08, WARN, HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2020-11-14 18:18:08, INFO, HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost/keretrendszer?serverTimezone=UTC]
+2020-11-14 18:18:08, INFO, HHH10001001: Connection properties: {user=root, password=****}
+2020-11-14 18:18:08, INFO, HHH10001003: Autocommit mode: false
+2020-11-14 18:18:08, INFO, HHH000115: Hibernate connection pool size: 20 (min=1)
+2020-11-14 18:18:09, INFO, HHH000400: Using dialect: org.hibernate.dialect.MySQLInnoDBDialect
+2020-11-14 18:18:10, INFO, HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@7c853486] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2020-11-14 18:18:10, INFO, HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2020-11-14 18:18:10, INFO, Uj kutya lett hozzáadva a ad7157dc-1fc9-4abd-8209-9ff44d2f9789azonositoval
+2020-11-14 18:18:11, INFO, Uj kutya lett hozzáadva a aadc4bcc-a6ac-4ae8-b92e-969fb80c3ffbazonositoval
+2020-11-14 18:18:11, INFO, Uj kutya lett hozzáadva a 7a986c3e-9c5f-4496-a989-ed44ce7447e6azonositoval
+2020-11-14 18:18:11, INFO, Uj kutya lett hozzáadva a b8efaa61-d7c3-480c-b141-2ac7334bc74cazonositoval
+2020-11-14 18:18:11, INFO, Uj kutya lett hozzáadva a 203419a8-811e-4028-86e2-0b7a41ff54d5azonositoval
+2020-11-14 18:18:11, INFO, Uj kutya lett hozzáadva a 9a53572c-a000-4dd1-bbf8-02ab6dc6db10azonositoval
+2020-11-14 18:18:11, INFO, Uj kutya lett hozzáadva a 182115eb-efb9-4f17-a1f7-f0b8370001c0azonositoval
+2020-11-14 18:18:11, INFO, Uj kutya lett hozzáadva a d4e89138-c836-4900-b179-3c820adac9e7azonositoval
+2020-11-14 18:18:11, INFO, Uj kutya lett hozzáadva a 6299edff-1cb4-41f0-a3aa-bd48a9492903azonositoval
+2020-11-14 18:18:11, INFO, Uj kutya lett hozzáadva a c6733269-d4b1-42f1-bdf7-742c25a65cc4azonositoval
+2020-11-14 18:18:11, INFO, Uj kutya lett hozzáadva a 9aa19f1c-6ba9-4ea9-b133-2059172834b3azonositoval
+2020-11-14 18:18:11, INFO, Uj kutya lett hozzáadva a 8f0c8c19-db92-421f-8e38-49666dd6cae5azonositoval
+2020-11-14 18:18:11, INFO, Az adatbázisban 11 kutya van felvéve.
+2020-11-14 18:18:11, INFO, Uj kutya lett hozzáadva a adf01dc8-e9a4-4d90-a469-1cb3bfbae0bcazonositoval
+2020-11-14 18:18:11, INFO, Uj kutya lett hozzáadva a 2c090ce2-02b0-48fd-a546-fe5a05dd4ef3azonositoval
+2020-11-14 18:18:11, INFO, Uj kutya lett hozzáadva a df3dd847-9021-4741-933e-41559a245c5aazonositoval
+2020-11-14 18:18:11, INFO, Uj kutya lett hozzáadva a 422c17d8-8ce0-4ffe-9fc4-b3714611909cazonositoval
+2020-11-14 18:18:11, INFO, Uj kutya lett hozzáadva a a1678a74-a5b2-4e71-9ce8-0dfdff892de5azonositoval
+2020-11-14 18:18:11, INFO, Uj kutya lett hozzáadva a f81c77f5-ca7b-452f-9d4b-271182312629azonositoval
+2020-11-14 18:18:11, INFO, Uj kutya lett hozzáadva a da0d93c2-e4a7-452d-8ba2-c77df8b64ddeazonositoval
+2020-11-14 18:18:11, INFO, Uj kutya lett hozzáadva a 05f8133d-4657-403d-8430-c24d4767d468azonositoval
+2020-11-14 18:18:11, INFO, Uj kutya lett hozzáadva a e1179ea0-df5f-4b38-b52a-cebf8868ceb8azonositoval
+2020-11-14 18:18:11, INFO, Uj kutya lett hozzáadva a 1f62fe0c-bdf6-484c-b229-0726f5acc548azonositoval
+2020-11-14 18:18:11, INFO, Uj kutya lett hozzáadva a 90146247-55d7-4df0-9581-9b2d90687680azonositoval
+2020-11-14 18:18:11, INFO, Az adatbázisban 11 kutya van felvéve.
+2020-11-14 18:41:50, INFO, HHH000412: Hibernate ORM core version 5.4.20.Final
+2020-11-14 18:41:51, INFO, HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2020-11-14 18:41:52, WARN, HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2020-11-14 18:41:52, INFO, HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost/keretrendszer?serverTimezone=UTC]
+2020-11-14 18:41:52, INFO, HHH10001001: Connection properties: {user=root, password=****}
+2020-11-14 18:41:52, INFO, HHH10001003: Autocommit mode: false
+2020-11-14 18:41:52, INFO, HHH000115: Hibernate connection pool size: 20 (min=1)
+2020-11-14 18:41:53, INFO, HHH000400: Using dialect: org.hibernate.dialect.MySQLInnoDBDialect
+2020-11-14 18:41:54, INFO, HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@7c853486] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2020-11-14 18:41:54, INFO, HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2020-11-14 18:41:55, INFO, Uj kutya lett hozzáadva a 3ee34803-ca2b-4c8d-a19c-48ad4e01f8caazonositoval
+2020-11-14 19:29:38, INFO, HHH000412: Hibernate ORM core version 5.4.20.Final
+2020-11-14 19:29:39, INFO, HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2020-11-14 19:29:40, WARN, HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2020-11-14 19:29:40, INFO, HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost/keretrendszer?serverTimezone=UTC]
+2020-11-14 19:29:40, INFO, HHH10001001: Connection properties: {user=root, password=****}
+2020-11-14 19:29:40, INFO, HHH10001003: Autocommit mode: false
+2020-11-14 19:29:40, INFO, HHH000115: Hibernate connection pool size: 20 (min=1)
+2020-11-14 19:29:41, INFO, HHH000400: Using dialect: org.hibernate.dialect.MySQLInnoDBDialect
+2020-11-14 19:29:42, INFO, HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@7c853486] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2020-11-14 19:29:42, INFO, HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2020-11-14 19:29:43, INFO, Uj kutya lett hozzáadva a e7fa7a32-0e8e-46f1-b75d-829fb94509aaazonositoval
+2020-11-14 19:30:48, INFO, HHH000412: Hibernate ORM core version 5.4.20.Final
+2020-11-14 19:30:49, INFO, HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2020-11-14 19:30:50, WARN, HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2020-11-14 19:30:50, INFO, HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost/keretrendszer?serverTimezone=UTC]
+2020-11-14 19:30:50, INFO, HHH10001001: Connection properties: {user=root, password=****}
+2020-11-14 19:30:50, INFO, HHH10001003: Autocommit mode: false
+2020-11-14 19:30:50, INFO, HHH000115: Hibernate connection pool size: 20 (min=1)
+2020-11-14 19:30:51, INFO, HHH000400: Using dialect: org.hibernate.dialect.MySQLInnoDBDialect
+2020-11-14 19:30:52, INFO, HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@7c853486] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2020-11-14 19:30:52, INFO, HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2020-11-14 19:30:52, INFO, Uj kutya lett hozzáadva a c9431cbd-a1c6-49cd-a6b4-21fe00ed117bazonositoval
+2020-11-15 22:40:06, INFO, Uj kutya lett hozzáadva a 5ef5b01c-8988-41db-b1e5-a9eb7c05e53bazonositoval
+2020-11-15 22:40:07, INFO, Uj kutya lett hozzáadva a d64800c0-1618-4c3c-b8b4-dc9afda80604azonositoval
+2020-11-15 22:40:07, INFO, Az adatbázisban 1 kutya van felvéve.
+2020-11-30 20:10:13, INFO, Uj kutya lett hozzáadva a 9370d339-9ceb-4eef-88ec-ef360c04ab7cazonositoval
+2020-11-30 20:33:13, INFO, Uj kutya lett hozzáadva a fcef2c41-d469-41cc-86d6-ab32dd74342fazonositoval
+2020-11-30 20:33:13, INFO, Az adatbázisban 1 kutya van felvéve.
+2020-11-30 20:54:44, INFO, Uj kutya lett hozzáadva a 04cbf816-c12b-4913-9d66-2f71ce70f205azonositoval
+2020-11-30 20:54:44, INFO, Az adatbázisban 1 kutya van felvéve.
+2020-11-30 21:00:12, INFO, Uj kutya lett hozzáadva a bfbc1e0c-0c3e-4273-89f2-de0b96887931azonositoval
+2020-11-30 21:00:12, INFO, Az adatbázisban 1 kutya van felvéve.
+2020-11-30 21:02:55, INFO, Uj kutya lett hozzáadva a 968cde4b-20f1-4537-9cd8-8e6209f4ff4eazonositoval
+2020-11-30 21:02:55, INFO, Az adatbázisban 1 kutya van felvéve.
+2020-11-30 21:02:58, INFO, Uj kutya lett hozzáadva a 8848b857-2a4f-41c1-9186-b3f520d2dee4azonositoval
+2020-11-30 21:02:58, INFO, Az adatbázisban 1 kutya van felvéve.
